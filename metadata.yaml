@@ -1,5 +1,8 @@
 _repo: Fortunes-and-Dreams-A-practical-manual-of-fortune-telling-divination-and-the-interpretaion-of__54774
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54774-h/images/cover.jpg
 creator:
   author:
     agent_name: Cielo, Astra
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48034
     wikipedia: http://www.gutenberg.org/browse/authors/g#a9506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54774#Fortunes-and-Dreams-A-practical-manual-of-fortune-telling-divination-and-the-interpretaion-of_
 gutenberg_issued: '2017-05-24'
 gutenberg_type: Text
 identifiers:
